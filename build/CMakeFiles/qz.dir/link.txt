@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/qz.dir/src/main.cpp.o -o qz 

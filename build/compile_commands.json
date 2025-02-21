@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/c/Users/patri/Documents/Jakes/Programming/quartz/build",
+  "command": "/usr/bin/g++   -g -std=gnu++20 -o CMakeFiles/qz.dir/src/main.cpp.o -c /mnt/c/Users/patri/Documents/Jakes/Programming/quartz/src/main.cpp",
+  "file": "/mnt/c/Users/patri/Documents/Jakes/Programming/quartz/src/main.cpp",
+  "output": "CMakeFiles/qz.dir/src/main.cpp.o"
+}
+]

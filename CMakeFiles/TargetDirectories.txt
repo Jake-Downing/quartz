@@ -1,0 +1,3 @@
+/mnt/c/Users/patri/Documents/Jakes/Programming/quartz/CMakeFiles/qz.dir
+/mnt/c/Users/patri/Documents/Jakes/Programming/quartz/CMakeFiles/edit_cache.dir
+/mnt/c/Users/patri/Documents/Jakes/Programming/quartz/CMakeFiles/rebuild_cache.dir
