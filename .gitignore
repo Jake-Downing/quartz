@@ -1,0 +1,4 @@
+.vscode/
+output.asm
+output.o
+test
